@@ -41,3 +41,5 @@ ___
 ## Моя статистика:
 
 ![[GeorgeMikheev](https://github.com/GeorgeMikheev)](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GeorgeMikheev&theme=2077)
+
+![[GeorgeMikheev](https://github.com/GeorgeMikheev)](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GeorgeMikheev&theme=2077)
