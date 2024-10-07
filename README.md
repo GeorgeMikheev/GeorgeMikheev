@@ -16,14 +16,14 @@ ___
 
 ___
 
-## Мои проекты:
+## 📚 Мои проекты:
 
 - [Проектная работа Mesto](https://georgemikheev.github.io/mesto-project-ff/)
 - [Тестовое задание "momentum"](https://georgemikheev.github.io/traineeship-test-task_momentum/)
 
 ___
 
-## Мой стек технологий:
+## 💻 Мой стек технологий:
 
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -39,7 +39,7 @@ ___
 <a href="https://electron.atom.io/" target="_blank" rel="noreferrer"><img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_electron.png?raw=true" width="36" height="36" alt="JavaScript" /></a>
 </p>
 
-## Моя статистика:
+## 📊 Моя статистика:
 
 ![[GeorgeMikheev](https://github.com/GeorgeMikheev)](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GeorgeMikheev&theme=2077)
 
